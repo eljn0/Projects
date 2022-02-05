@@ -21,3 +21,6 @@ https://eljn0webportfolioexample.netlify.app/
 
 # Blockcraft
 https://github.com/eljn0/blockcraft
+
+# Blog app
+https://github.com/eljn0/Blogwebsite-flask-
