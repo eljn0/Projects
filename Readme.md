@@ -25,6 +25,9 @@ https://github.com/eljn0/blockcraft
 # Blog app
 https://github.com/eljn0/Blogwebsite-flask-
 
+# Weather app
+https://weatherappeljn0.netlify.app/
+
 --------------------------------------------
 - 9 profesional
 - 2 govermental projects
