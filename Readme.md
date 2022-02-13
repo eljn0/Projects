@@ -28,6 +28,7 @@ https://github.com/eljn0/Blogwebsite-flask-
 # Weather app
 https://weatherappeljn0.netlify.app/
 
+# Flask To do app
+https://github.com/eljn0/Flasktodoapp
 --------------------------------------------
-- 9 profesional
-- 2 govermental projects
+
