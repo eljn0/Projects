@@ -36,6 +36,7 @@ https://github.com/eljn0/Quizappforfriends
 
 # Music player with Vanilla js
 https://github.com/eljn0/music-player
+https://eljansmusicplayer.netlify.app/
 
 # Personal Portfolio
 http://eljan.live/
