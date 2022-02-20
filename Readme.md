@@ -34,6 +34,9 @@ https://github.com/eljn0/Flasktodoapp
 # Simple Quiz app
 https://github.com/eljn0/Quizappforfriends
 
+# Music player with Vanilla js
+https://github.com/eljn0/music-player
+
 # Personal Portfolio
 http://eljan.live/
 --------------------------------------------
