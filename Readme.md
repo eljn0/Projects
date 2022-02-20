@@ -31,5 +31,10 @@ https://weatherappeljn0.netlify.app/
 # Flask To do app
 https://github.com/eljn0/Flasktodoapp
 
+# Simple Quiz app
+https://github.com/eljn0/Quizappforfriends
+
+# Personal Portfolio
+http://eljan.live/
 --------------------------------------------
 
