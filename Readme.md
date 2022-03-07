@@ -44,7 +44,7 @@ https://eljansmusicplayer.netlify.app/
 # Personal Portfolio
 http://eljan.live/
 
-# javascript10p
+# Javascript10p
 https://10jsproject.netlify.app/
 
 --------------------------------------------
