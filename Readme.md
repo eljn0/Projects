@@ -46,6 +46,3 @@ http://eljan.live/
 
 # Javascript10p
 https://10jsproject.netlify.app/
-
---------------------------------------------
-
