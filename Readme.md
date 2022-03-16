@@ -46,3 +46,6 @@ http://eljan.live/
 
 # Javascript10p
 https://10jsproject.netlify.app/
+
+# Hangman Game Javascript
+https://eljanshangmangame.netlify.app/
