@@ -58,3 +58,6 @@ https://eljansthreejsportf.netlify.app/
 
 # 20. Alzhel Website
 https://alzhel.netlify.app/#0
+
+# 21. Chessboard 
+https://chessboards.netlify.app/
