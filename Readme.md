@@ -64,3 +64,6 @@ https://chessboards.netlify.app/
 
 # 22. Python Auto sketcher
 https://github.com/eljn0/pythonautosketcher
+
+# 23. Matrixface 
+https://matrixfaces.netlify.app/
