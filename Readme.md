@@ -62,3 +62,5 @@ https://alzhel.netlify.app/#0
 # 21. Chessboard 
 https://chessboards.netlify.app/
 
+# 22. Python Auto sketcher
+https://github.com/eljn0/pythonautosketcher
