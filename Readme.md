@@ -70,3 +70,6 @@ https://matrixfaces.netlify.app/
 
 # 24. Advicor
 https://advicor.netlify.app/
+
+# 25. Current location tracker (html)
+https://yourloc.netlify.app/
