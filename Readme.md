@@ -67,3 +67,6 @@ https://github.com/eljn0/pythonautosketcher
 
 # 23. Matrixface 
 https://matrixfaces.netlify.app/
+
+# 24. Advicor
+https://advicor.netlify.app/
