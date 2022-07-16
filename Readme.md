@@ -76,3 +76,6 @@ https://yourloc.netlify.app/
 
 # 26. Python qrcode maker ( big free deal for replica sellers )
 https://github.com/eljn0/Python-archieve/tree/main/qrcodemaker
+
+# 27. Azastrotech (done)
+https://www.azastrotech.com/
