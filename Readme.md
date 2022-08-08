@@ -79,3 +79,6 @@ https://github.com/eljn0/Python-archieve/tree/main/qrcodemaker
 
 # 27. Azastrotech (done)
 https://www.azastrotech.com/
+
+# 28. Ultimate Passenger Panel for Turkish Airlines Hackathon
+https://jade-puppy-196473.netlify.app/
