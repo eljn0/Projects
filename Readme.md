@@ -82,3 +82,8 @@ https://www.azastrotech.com/
 
 # 28. Ultimate Passenger Panel for Turkish Airlines Hackathon
 https://jade-puppy-196473.netlify.app/
+
+# 29. Javascript AI bot( Turkish Airlines Hackathon )
+https://tachat.netlify.app/
+
+https://github.com/eljn0/Javascript-AI-chatbot/tree/main
