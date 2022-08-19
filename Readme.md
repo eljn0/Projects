@@ -87,3 +87,6 @@ https://jade-puppy-196473.netlify.app/
 https://tachat.netlify.app/
 
 https://github.com/eljn0/Javascript-AI-chatbot/tree/main
+
+# 30. Rubik's Cube preview
+https://cheery-chimera-dc878a.netlify.app/
