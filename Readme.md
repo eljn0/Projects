@@ -98,3 +98,8 @@ https://cheery-chimera-dc878a.netlify.app/
  
 # 32. Persistence Usb Project
 https://github.com/eljn0/Persistence-Usb-w-Ahmet-Birkan
+
+# 33. Simple Script 
+https://eljn0.netlify.app/
+
+#34.
