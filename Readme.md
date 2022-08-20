@@ -90,3 +90,9 @@ https://github.com/eljn0/Javascript-AI-chatbot/tree/main
 
 # 30. Rubik's Cube preview
 https://cheery-chimera-dc878a.netlify.app/
+
+# 31. Responsive Portfolio Project
+ https://simpleportfolioweb.netlify.app/
+ 
+ https://github.com/eljn0/Simple-portfolio-script
+ 
