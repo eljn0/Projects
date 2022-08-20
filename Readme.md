@@ -96,3 +96,5 @@ https://cheery-chimera-dc878a.netlify.app/
  
  https://github.com/eljn0/Simple-portfolio-script
  
+# 32. Persistence Usb Project
+https://github.com/eljn0/Persistence-Usb-w-Ahmet-Birkan
