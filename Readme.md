@@ -102,4 +102,5 @@ https://github.com/eljn0/Persistence-Usb-w-Ahmet-Birkan
 # 33. Simple Script 
 https://eljn0.netlify.app/
 
-#34.
+# 34. Certificate website for my friend
+https://certificatesofnijat.netlify.app/
